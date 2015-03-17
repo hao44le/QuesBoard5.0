@@ -1,0 +1,13 @@
+PODS:
+  - QTree-objc (0.0.2)
+  - SIOSocket (0.2.0)
+
+DEPENDENCIES:
+  - QTree-objc
+  - SIOSocket (~> 0.2)
+
+SPEC CHECKSUMS:
+  QTree-objc: 3c2cc51ce558adff7abf94a9507cfa53cd61f06b
+  SIOSocket: 40ebc9f014b9fec4ec595212faaf6f19cf29d1f2
+
+COCOAPODS: 0.35.0
